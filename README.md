@@ -1,2 +1,0 @@
-# lagatus
-Lagatus Website
